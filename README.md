@@ -7,7 +7,7 @@ The class project for [Getting and Cleaning Data](https://www.coursera.org/cours
 1. Download the zip file from [this URL](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 2. Unzip the file.
 3. Rename the folder to "DataSet" and move it to the SAME DIRECTORY as the R script
-3. You can now access the ff files:
+3. You can now access the ff files that are used in run_analysis.R file :
 	* `features.txt`
 	* `subject_train.txt`
 	* `subject_test.txt`
